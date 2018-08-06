@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">New_foodie_android_user</string>
+    <string name="guest_login">Skip</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="next">Next</string>
+
+    <string name="walk_1">Fresh</string>
+    <string name="short_note1">Discover new dishes everyday and hold your favourite restaurant</string>
+    <string name="walk_2">Search</string>
+    <string name="short_note2">View menus, photos and reviews for restaurants around you</string>
+    <string name="walk_3">Bookmark</string>
+    <string name="short_note3">Add places you want to visit in the future to your bookmark</string>
+
+
+</resources>
